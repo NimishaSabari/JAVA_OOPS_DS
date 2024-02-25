@@ -1,0 +1,23 @@
+ABOUT JAVA :
+- Java is an object-oriented programming language known for its versatility.
+- It follows a "write once, run anywhere" philosophy, enabling cross-platform compatibility.
+- Programs are compiled into byte code for execution on the Java Virtual Machine (JVM).
+- Widely employed in web development, mobile apps (Android), and enterprise software.
+- Java's enduring popularity stems from strong community support, extensive libraries, and robust security features.
+
+
+INSTALLATION PROCESS :
+- In this we are going to use Intellij software  to practise and workout the codes :
+- STEP 1 : Visit official website of Intellij (https://www.jetbrains.com/idea/download/?section=windows)
+- STEP 2 : Download the community edition 
+- STEP 3 : After successful completion ,setup the software 
+- STEP 4 : Open Intellij and create a New project 
+
+BASIC PROGRAM : & SYNTAX 
+
+public class Helloworld{
+    public static void main (String[]args){
+        System.out.println("HELLO WORLD");
+    }
+}
+
