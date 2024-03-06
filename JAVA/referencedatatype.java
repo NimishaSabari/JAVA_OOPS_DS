@@ -1,13 +1,12 @@
 package JAVA_OOPS_DS.JAVA;
-
-public //reference datatype
+//reference datatype
 //primitive if there are two values theey will not be dependent on each otherr
 //reference -> dependent on each other (2 var ) : hence if we change one value both values will be changed to same
 
 import java.awt.*;
 import java.util.Date;
 
-public class new3 {
+public class referencedatatype {
     public static  void main(String[] args) {
         //primitive:
         int a = 10;
@@ -28,6 +27,4 @@ public class new3 {
 
     }
 }
- {
-    
-}
+ 
