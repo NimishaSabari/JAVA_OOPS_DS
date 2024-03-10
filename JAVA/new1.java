@@ -11,7 +11,7 @@ public class new1 {
         //to store decimal numbers :
         float marks = 95.6F;
         double mark = 95.877777;
-        boolean presence = true - 1 false -0
+        //boolean presence = true - 1 false -0
 
         //to store alphabet
         char grade = 'A';
