@@ -11,7 +11,7 @@ INSTALLATION PROCESS :
 - STEP 1 : Visit official website of Intellij (https://www.jetbrains.com/idea/download/?section=windows)
 - STEP 2 : Download the community edition 
 - STEP 3 : After successful completion ,setup the software 
-- STEP 4 : Open Intellij and create a New project 
+- STEP 4 : Open Intellij and create a New project  the  conquest
 
 BASIC PROGRAM : & SYNTAX 
 
@@ -21,3 +21,8 @@ public class Helloworld{
     }
 }
 
+
+RUN A JAVA PROGRAM:
+
+-> javac filename.java
+-> java filename java
